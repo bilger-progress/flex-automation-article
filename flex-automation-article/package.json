@@ -1,6 +1,6 @@
 {
   "name": "flex-automation-article",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Automating a Kinvey Flex Service with Travis CI.",
   "main": "src/index.js",
   "scripts": {
