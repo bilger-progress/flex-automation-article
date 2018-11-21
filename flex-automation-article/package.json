@@ -1,0 +1,27 @@
+{
+  "name": "flex-automation-article",
+  "version": "1.0.0",
+  "description": "Automating a Kinvey Flex Service with Travis CI.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilger-progress/flex-automation-article.git"
+  },
+  "keywords": [
+    "Kinvey",
+    "Flex",
+    "Service",
+    "Automation",
+    "Travis",
+    "CI"
+  ],
+  "author": "Bilger Yahov @ Kinvey by Progress.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilger-progress/flex-automation-article/issues"
+  },
+  "homepage": "https://github.com/bilger-progress/flex-automation-article#readme"
+}
