@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/bilger-progress/flex-automation-article/issues"
   },
-  "homepage": "https://github.com/bilger-progress/flex-automation-article#readme"
+  "homepage": "https://github.com/bilger-progress/flex-automation-article#readme",
+  "dependencies": {
+    "kinvey-flex-sdk": "^3.1.2",
+    "mocha": "^5.2.0",
+    "otp.js": "^1.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
 }
